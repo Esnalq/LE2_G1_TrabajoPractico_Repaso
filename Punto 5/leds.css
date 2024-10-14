@@ -1,0 +1,50 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flexbox;
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_790799-MLA42854369325_072020-O.webp");
+}
+.Verde {
+    width: 60px;
+    background-color: rgba(44, 179, 32, 0.233);
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Verde:hover{
+    background-color: rgba(51, 190, 23, 0.671);
+}
+.Verde:active{
+    background-color: rgb(0, 255, 76);
+    
+}
+.Rojo {
+    width: 60px;
+    background-color: rgba(179, 32, 32, 0.459);
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Rojo:hover{
+    background-color: rgba(190, 23, 23, 0.671);
+}
+.Rojo:active{
+    background-color: rgb(255, 0, 0);
+}
+.Azul {
+    width: 60px;
+    background-color: rgba(0, 4, 255, 0.555);
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Azul:hover{
+    background-color: rgba(18, 31, 212, 0.712);
+}
+.Azul:active{
+    background-color: rgb(4, 0, 255);
+}
+
+.fondo1{
+    background-color: blue;
+}
