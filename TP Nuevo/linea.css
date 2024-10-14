@@ -1,8 +1,0 @@
-.circulo {
-    width: 100px; /* Puedes ajustar el tamaño */
-    height: 100px; /* Puedes ajustar el tamaño */
-    border-radius: 50%; /* Hace que el div sea circular */
-    background-color: rgba(0, 255, 42, 0); /* Color de fondo inicial */
-    transition: background-color 0.3s ease; /* Transición suave para el cambio de color */
-    margin: 20px 0; /* Espaciado vertical */
-}
